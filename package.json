@@ -1,0 +1,19 @@
+{
+  "name": "api-auth",
+  "version": "1.0.0",
+  "description": "An API with Authentication",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/N-liraj-khanna/API-with-AUTH.git"
+  },
+  "author": "N Liraj Khanna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/N-liraj-khanna/API-with-AUTH/issues"
+  },
+  "homepage": "https://github.com/N-liraj-khanna/API-with-AUTH#readme"
+}
