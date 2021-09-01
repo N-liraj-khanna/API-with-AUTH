@@ -4,7 +4,7 @@
   "description": "An API with Authentication",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon app.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/N-liraj-khanna/API-with-AUTH/issues"
   },
-  "homepage": "https://github.com/N-liraj-khanna/API-with-AUTH#readme"
+  "homepage": "https://github.com/N-liraj-khanna/API-with-AUTH#readme",
+  "dependencies": {
+    "@hapi/joi": "^17.1.1",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.0.3"
+  }
 }
